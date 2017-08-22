@@ -10,5 +10,7 @@ if(global.hp <= 0)
 		
 	with(obj_player)
 		instance_destroy();
+		
+	room = r_result;
 }
 instance_destroy();
