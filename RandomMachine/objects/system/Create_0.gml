@@ -1,6 +1,8 @@
 /// @description HolyKnight
 // vnycall74@naver.com - http://holykisa.tistory.com
 
+winner = "Unkown"
+
 user = ds_list_create();
 
 ds_list_add(user, "AAA",
